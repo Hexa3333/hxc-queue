@@ -17,6 +17,7 @@ The inline header (10 bytes) contains information that is needed for the data st
 - The index at the back of the queue (unsigned 2 byte integer)
 - The index at the front of the queue (unsigned 2 byte integer)
 
+![An examplary chart of hxc_queue in memory](Example.png)
 
 # TODO:
 - Dynamic resizing
